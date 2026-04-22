@@ -1,5 +1,7 @@
 package de.stefanmeister.javainsel.kapitel02;
 
+//Listing 2.6, Seite 122
+
 public class L0206_FirstVariable 
 {
 	public static void main(String[] args)
