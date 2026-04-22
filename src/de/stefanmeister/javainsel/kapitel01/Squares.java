@@ -1,4 +1,4 @@
-package javainsel.kapitel01;
+package de.stefanmeister.javainsel.kapitel01;
 
 // Listing 1.1, Seite 83
 
