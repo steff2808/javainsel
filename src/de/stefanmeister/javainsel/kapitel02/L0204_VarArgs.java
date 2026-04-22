@@ -2,7 +2,7 @@ package de.stefanmeister.javainsel.kapitel02;
 
 //Listing 2.4, Seite 111
 
-public class L0204_ 
+public class L0204_VarArgs 
 {
 
 	public static void main(String[] args) 
