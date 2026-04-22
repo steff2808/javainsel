@@ -2,7 +2,7 @@ package de.stefanmeister.javainsel.kapitel01;
 
 // Listing 1.1, Seite 83
 
-public class Squares 
+public class L0101_Squares 
 {
 	static int quadrat(int n)
 	{

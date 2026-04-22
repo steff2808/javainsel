@@ -2,7 +2,7 @@ package de.stefanmeister.javainsel.kapitel02;
 
 //Listing 2.1, Seite 106
 
-public class Application 
+public class L0201_Application 
 {
 
 	public static void main(String[] args) 

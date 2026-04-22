@@ -2,7 +2,7 @@ package de.stefanmeister.javainsel.kapitel02;
 
 //Listing 2.3, Seite 110
 
-public class OverloadedPrintln 
+public class L0203_OverloadedPrintln 
 {
 
 	public static void main(String[] args) 
