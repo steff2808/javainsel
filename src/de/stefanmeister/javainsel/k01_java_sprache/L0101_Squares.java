@@ -1,4 +1,4 @@
-package de.stefanmeister.javainsel.kapitel01;
+package de.stefanmeister.javainsel.k01_java_sprache;
 
 // Listing 1.1, Seite 83
 

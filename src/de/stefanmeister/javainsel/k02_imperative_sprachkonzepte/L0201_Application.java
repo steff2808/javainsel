@@ -1,4 +1,4 @@
-package de.stefanmeister.javainsel.kapitel02;
+package de.stefanmeister.javainsel.k02_imperative_sprachkonzepte;
 
 //Listing 2.1, Seite 106
 
